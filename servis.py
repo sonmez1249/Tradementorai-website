@@ -12,7 +12,7 @@ st.set_page_config(
 custom_css = """
 <style>
     body {
-        background-color: #2c2f33; /* Koyu gri arka plan */
+        background-color: #FFD700; /* Koyu gri arka plan */
         color: #ffffff; /* Beyaz yazılar */
     }
     
