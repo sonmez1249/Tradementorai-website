@@ -105,7 +105,7 @@ st.markdown(
 st.markdown(f"<h1>{TITLE}</h1>", unsafe_allow_html=True)
 
 # Görüntü yükleme ve gösterme
-image_path = "images\\Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg"
+image_path = "pages//images//Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg"
 image = Image.open(image_path)
 image = image.resize((300, 300))  # Görsel boyutunu küçültme
 
