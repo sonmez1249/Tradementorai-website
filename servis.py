@@ -120,8 +120,8 @@ st.markdown(
         <h2>Bize Ulaşın</h2>
         <p><strong>Telefon:</strong> +90 123 456 7890</p>
         <p><strong>E-posta:</strong> tradementorai@gmail.com</p>
-        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/tradementorai</a></p>
-        <p><strong>Twitter:</strong> <a href="https://twitter.com/yourhandle" target="_blank">@yourhandle</a></p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/Tradementorai</a></p>
+        <p><strong>Twitter:</strong> <a href="https://twitter.com/yourhandle" target="_blank">@Tradementorai</a></p>
     </div>
     """, unsafe_allow_html=True
 )
