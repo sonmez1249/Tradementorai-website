@@ -6,7 +6,7 @@ import requests
 # Sayfa yapılandırması (ikon eklendi)
 st.set_page_config(
     page_title="Hisse Senedi Haberleri",
-    page_icon="Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg",
+    page_icon="pages//images//Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg",
     layout="wide",
     initial_sidebar_state="expanded"
 )
