@@ -118,7 +118,7 @@ st.markdown(
     """
    <div class="contact-info">
         <h2>Bize Ulaşın</h2>
-        <p><strong>Telefon:</strong> +90 123 456 7890</p>
+        <p><strong>Telefon:</strong> +90 523 23 23 </p>
         <p><strong>E-posta:</strong> tradementorai@gmail.com</p>
         <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/Tradementorai</a></p>
         <p><strong>Twitter:</strong> <a href="https://twitter.com/yourhandle" target="_blank">@Tradementorai</a></p>
