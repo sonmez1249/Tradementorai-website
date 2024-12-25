@@ -128,4 +128,16 @@ if query:
         st.error("Haberler alınırken bir hata oluştu.")
 
 
+# İletişim Baloncuğu
+def contact_bubble():
+    st.markdown(
+        """
+        <a class="contact-bubble" href="https://servispy-2etfjh5ephbuz2qeltdvsk.streamlit.app/" target="_blank">
+            📞
+        </a>
+        """,
+        unsafe_allow_html=True
+    )
+contact_bubble()
+
 
