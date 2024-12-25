@@ -63,7 +63,7 @@ custom_css = """
         margin-bottom: 20px;
     }
     .contact-info {
-        background-color: #5865f2; /* Pastel mavi kutu rengi */
+        background-color: #FFD700; /* Pastel mavi kutu rengi */
         padding: 25px;
         border-radius: 15px; /* Daha yuvarlatılmış kenarlar */
         margin: 20px auto;
