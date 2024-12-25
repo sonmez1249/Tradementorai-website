@@ -112,7 +112,8 @@ image = image.resize((300, 300))  # Görsel boyutunu küçültme
 # Görüntüyü ortalamak için sütunlar
 col1, col2, col3 = st.columns([1, 1, 1])
 with col2:
-    st.image(image, caption="Kripto Dünyasına Hoş Geldiniz", use_container_width=False)
+    st.image("Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg", use_container_width=True)
+
 )
 
 # İletişim bilgileri bölümü
