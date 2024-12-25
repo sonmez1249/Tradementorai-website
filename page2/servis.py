@@ -3,7 +3,7 @@ import streamlit as st
 # Sayfa yapılandırması (ikon eklendi)
 st.set_page_config(
     page_title="İletişim Bilgileri",
-    page_icon="Tradementorai-website//tree//main//page2//Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg",  # İkon dosya yolu
+    page_icon="github.com//sonmez1249//Tradementorai-website//blob//main//page2//Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg",  # İkon dosya yolu
     layout="wide",
     initial_sidebar_state="expanded"
 )
