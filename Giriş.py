@@ -6,7 +6,7 @@ TITLE = "Trade Mentor AI'a Hoşgeldiniz"
 # Page configuration with updated icon
 st.set_page_config(
     page_title="TradeMentorAI",
-    page_icon="images\\Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg",  # İkon için görsel yolu
+    page_icon="Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg",  # İkon için görsel yolu
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
