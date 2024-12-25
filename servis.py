@@ -116,12 +116,12 @@ st.markdown("<h1>İletişim Bilgilerimiz</h1>", unsafe_allow_html=True)
 # İletişim bilgileri kutusu
 st.markdown(
     """
-    <div class="contact-info">
+   <div class="contact-info">
         <h2>Bize Ulaşın</h2>
-       
-        <p><strong>E-posta:</strong> tradementorai@gmail.com </p>
-        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/Tradementorai" target="_blank">linkedin.com/in/Tradementorai</a></p>
-        <p><strong>Twitter:</strong> <a href="https://twitter.com/Trdaementorai" target="_blank">@Tradementorai</a></p>
+        <p><strong>Telefon:</strong> +90 123 456 7890</p>
+        <p><strong>E-posta:</strong> tradementorai@email.com</p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+        <p><strong>Twitter:</strong> <a href="https://twitter.com/yourhandle" target="_blank">@yourhandle</a></p>
     </div>
     """, unsafe_allow_html=True
 )
