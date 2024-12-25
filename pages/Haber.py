@@ -7,7 +7,7 @@ api_key = "dc482f4ae1fc4005bd3b6887d20e8c90"
 # Sayfa yapılandırması (ikon eklendi)
 st.set_page_config(
     page_title="Türkçe Haber Başlıkları",
-    page_icon="images\\Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg",
+    page_icon="pages//images//Leonardo_Phoenix_Create_a_modern_sleek_logo_for_the_stock_trad_2.jpg",
     layout="wide",
     initial_sidebar_state="expanded"
 )
