@@ -2,7 +2,8 @@ import streamlit as st
 import datetime
 import yfinance as yf
 import requests
-
+import numpy
+import pandas
 # Sayfa yapılandırması (ikon eklendi)
 st.set_page_config(
     page_title="Hisse Senedi Haberleri",
